@@ -1,4 +1,4 @@
-# NC WIFI SCANNER - CLI, Wed, Desktop
+# NC WIFI SCANNER - CLI, WEB, DESKTOP
 
 - NC Wifi Scanner - Web, Desktop, CLI / Scanner wifi desarrollado con tecnologias Web Components, Node, Rust, Web Assembly, Iced
 
