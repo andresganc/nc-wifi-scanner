@@ -1,7 +1,0 @@
-[package]
-name = "cli-nc-wifi-scanner"
-version = "0.1.0"
-edition = "2026"
-
-[dependencies]
-wifiscanner = "0.5.1"
